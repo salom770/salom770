@@ -1,62 +1,68 @@
-<div align="center">👋 Hi, I'm Salem Salah
+<div align="center" width="50"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working on Code" width="40%"/><br><br>
 
-🤖 AI Student | Python Developer | Future AI Engineer
+👋 Hi, I'm Salem Salah
 
-🎓 Artificial Intelligence in Business — Al-Awael Modern University
+🤖 AI Student | 🐍 Python Learner | 🚀 Aspiring AI Engineer
 
-💻 Currently building my foundations in Python, Computer Science, Data & Artificial Intelligence
+🎓 Artificial Intelligence in Business
+🏫 Al-Awael Modern University
 
-🧠 My long-term goal is to become a strong AI Engineer specializing in Machine Learning & Deep Learning
+<br>"Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>---
 
-🚀 About Me
+🧑‍💻 About Me
 
-I'm a university student studying Artificial Intelligence in Business with a strong interest in programming, machine learning, deep learning, and building real-world AI solutions.
+I'm a university student studying Artificial Intelligence in Business.
 
-I'm following a structured learning path alongside my university studies, focusing on understanding the fundamentals rather than simply copying code.
+I'm building my programming foundation with Python and gradually moving toward:
 
-My goal is to progress from:
+🐍 Python
+💻 Computer Science
+📊 Data Analysis
+🤖 Machine Learning
+🧠 Neural Networks
+🔥 Deep Learning
+🚀 AI Engineering
+🏢 AI + Business
 
-Programming → Computer Science → Data → Machine Learning → Deep Learning → AI Engineering
-
-I also want to combine AI with business and information systems to build practical solutions that can be used by real organizations.
-
----
-
-🎯 My Learning Path
-
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Git + GitHub + Linux
-   ↓
-SQL + Databases + APIs
-   ↓
-Mathematics + Statistics
-   ↓
-NumPy + Pandas + Data Analysis
-   ↓
-Machine Learning
-   ↓
-Neural Networks
-   ↓
-Deep Learning
-   ↓
-PyTorch
-   ↓
-AI Engineering
-   ↓
-AI + Business Applications
+My goal is to become a strong AI Engineer who can build real-world intelligent systems.
 
 ---
 
-🐍 Current Focus
+🎯 My Learning Journey
+
+🐍 Python
+      ↓
+🧩 Data Structures & Algorithms
+      ↓
+🐙 Git + GitHub + 🐧 Linux
+      ↓
+🗄️ SQL + Databases + 🔌 APIs
+      ↓
+📐 Mathematics + 📊 Statistics
+      ↓
+🔢 NumPy + 🐼 Pandas + 📈 Data Analysis
+      ↓
+🤖 Machine Learning
+      ↓
+🧠 Neural Networks
+      ↓
+🔥 Deep Learning
+      ↓
+⚡ PyTorch
+      ↓
+🚀 AI Engineering
+      ↓
+🏢 AI + Business
+
+---
+
+🐍 Currently Learning
 
 Python
 
-Currently building a strong foundation in:
+I'm currently strengthening my Python fundamentals:
 
 - Variables
 - Conditions
@@ -65,84 +71,116 @@ Currently building a strong foundation in:
 - Lists
 - Dictionaries
 - Sets
-- Problem solving
-- Building small programs
+- Problem Solving
+- Input Validation
+- Building Small Applications
 - Object-Oriented Programming
-- File handling
-- Error & Exception handling
+- File Handling
+- Error & Exception Handling
 
-I'm also turning what I learn into practical projects instead of only studying theory.
-
----
-
-🧠 AI Roadmap
-
-My main technical direction is:
-
-- 📊 Data Analysis
-- 📈 Statistics & Mathematics
-- 🤖 Machine Learning
-- 🧠 Neural Networks
-- 🔥 Deep Learning
-- 👁️ Computer Vision
-- 💬 Natural Language Processing
-- ⚡ Transformers
-- 🐍 Python AI ecosystem
-- 🔬 PyTorch
-- 🚀 AI Engineering
-- 🏢 AI for Business
+My focus is on understanding the code and building projects, not simply copying solutions.
 
 ---
 
-🛠️ Technologies
+🤖 Machine Learning & Deep Learning
 
-Currently Learning
+My Future Focus
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🤖 Machine Learning
 
-Coming Next
+🧠 Neural Networks
 
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+🔥 Deep Learning
 
-«These technologies are part of my roadmap; I don't consider a technology mastered just because I've started learning it.»
+👁️ Computer Vision
+
+💬 Natural Language Processing
+
+⚡ Transformers
+
+🐦 PyTorch
+
+These are part of my learning roadmap and will be added to my active skills as I learn and build real projects with them.
 
 ---
 
-🧩 Projects
+🛠️ Tools & Technologies
 
-I'm building projects progressively as I move through my learning path.
+🐍 Programming
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+🧰 Development Tools
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+"Bash" (https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+"Markdown" (https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+🗄️ Data & Databases
+
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+📊 Data Science
+
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+
+🤖 Machine Learning & Deep Learning
+
+"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+«🚧 Technologies above are part of my learning roadmap. I only consider a technology a skill after I have studied it and built something with it.»
+
+---
+
+📂 Projects
+
+I learn by building projects and improving them as my skills grow.
 
 🟢 Python Projects
 
-Some of the projects I've worked on include:
+💰 Expense Management System
 
-- 💰 Expense Management System
-- 📚 Bookstore / Library Management System
-- 🏪 Store Inventory Management System
-- 📝 Task Management Programs
-- 🎓 Student Grades Management
-- 🧮 Skills & Data Management Programs
+📚 Bookstore / Library Management System
+
+🏪 Store Inventory Management System
+
+📝 Task Management Program
+
+🎓 Student Grades Management
+
+📊 Skills & Data Management Programs
 
 These projects help me practice:
 
-"Functions" • "Dictionaries" • "Lists" • "Conditions" • "Loops" • "Input Validation" • "Data Management" • "Problem Solving"
+"Python" · "Functions" · "Lists" · "Dictionaries" · "Loops" · "Conditions" · "Data Management" · "Problem Solving"
 
-🔵 Future Projects
+---
 
-As my skills grow, my projects will evolve into:
+🚀 Future Projects
 
-SQL → Data Analysis → Machine Learning → Deep Learning → AI Applications
+As I progress, my projects will become more advanced:
 
-My goal is not to collect small projects.
+🐍 Python
+   ↓
+🗄️ SQL
+   ↓
+📊 Data Analysis
+   ↓
+🤖 Machine Learning
+   ↓
+🧠 Deep Learning
+   ↓
+🚀 AI Applications
+   ↓
+🏢 AI + Business Solutions
 
-My goal is to build projects that become progressively more realistic and technically advanced.
+My goal is to build projects that solve real problems, not just tutorial projects.
 
 ---
 
@@ -151,74 +189,135 @@ My goal is to build projects that become progressively more realistic and techni
 Al-Awael Modern University
 
 Major: Artificial Intelligence in Business
-Department: Management Information Systems
 
-My university curriculum combines:
+My academic path combines:
 
-- Information Systems
-- Programming
-- Databases
-- Statistics
-- Data
-- Artificial Intelligence
-- Business
-- Information Security
-- Networks
-- Decision Support Systems
-- ERP
-- AI Business Applications
+💻 Programming
+🗄️ Databases
+📊 Statistics & Data
+🤖 Artificial Intelligence
+🏢 Business Information Systems
+🔐 Information Security
+🌐 Networks
+📈 Decision Support Systems
+🏭 ERP
+🧠 AI Business Applications
 
-I'm complementing the academic curriculum with deeper self-study in Computer Science, Machine Learning and Deep Learning.
+Alongside university, I'm following a deeper self-study path toward Machine Learning and Deep Learning.
 
 ---
 
-📚 What I'm Building Toward
+🧠 My AI Roadmap
+
+🥇 Programming Foundations
+    Python
+    Git + GitHub
+    Linux
+    Problem Solving
+
+🥈 Computer Science
+    Data Structures
+    Algorithms
+    OOP
+    Software Engineering
+
+🥉 Data & Databases
+    SQL
+    Database Design
+    APIs
+    Data Management
+
+🔵 Mathematics & Data
+    Statistics
+    Probability
+    Linear Algebra
+    NumPy
+    Pandas
+    Data Analysis
+
+🤖 Machine Learning
+    Regression
+    Classification
+    Decision Trees
+    Random Forest
+    SVM
+    KNN
+    Clustering
+    Model Evaluation
+
+🧠 Deep Learning
+    Neural Networks
+    Forward Propagation
+    Backpropagation
+    CNN
+    RNN
+    Transformers
+    PyTorch
+
+🚀 AI Engineering
+    AI Applications
+    APIs
+    Deployment
+    Production AI Systems
+
+🏢 AI + Business
+    Predictive Analytics
+    Decision Support
+    AI Automation
+    Business AI Solutions
+
+---
+
+💡 Learning Philosophy
+
+«Learn the fundamentals. Build projects. Make mistakes. Understand them. Improve. Repeat.»
+
+I don't want to simply learn how to make code run.
+
+I want to understand why it works and eventually use that knowledge to build useful AI systems.
+
+---
+
+📈 My Goal
 
 Student
    ↓
-Python Developer
+🐍 Python Developer
    ↓
-Computer Science Foundations
+💻 Strong CS Foundations
    ↓
-Data & ML Developer
+📊 Data & ML
    ↓
-Machine Learning Engineer
+🤖 Machine Learning
    ↓
-Deep Learning Engineer
+🧠 Deep Learning
    ↓
-AI Engineer
+🚀 AI Engineer
 
-The target is to understand why things work, not just how to make them run.
-
----
-
-💡 My Philosophy
-
-«Learn the fundamentals.
-Build projects.
-Make mistakes.
-Understand the mistake.
-Improve the project.
-Repeat.»
-
-I believe consistent practical work is more valuable than simply collecting tutorials and certificates.
-
----
-
-📈 The Goal
-
-My long-term goal is to build real AI systems that solve practical problems.
-
-Especially systems that combine:
+🎯 Long-Term Goal
 
 Artificial Intelligence + Data + Software + Business
 
-🚀 One step at a time.
-
 ---
 
-<div align="center">Thanks for visiting my profile! 👋
+<div align="center">📊 GitHub Stats
 
-Learning today. Building tomorrow.
+<a href="https://github.com/YOUR_USERNAME"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/></a><br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/><br><br>
+
+💻 Code Cycle
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It works"/>     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works somehow"/><br><br>
+
+🐛 Debug → 💡 Learn → 🔧 Build → 🚀 Improve
+
+<br>Thanks for visiting my profile! 👋
+
+Learning today. Building tomorrow. 🚀
 
 </div>
