@@ -1,3 +1,5 @@
+
+
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
@@ -11,11 +13,7 @@
 🎓 **Artificial Intelligence in Business**  
 🏫 **Al-Awael Modern University**
 
-### 🥇 Level 1 — University
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+### 🥇 Level 1
 
 </div>
 
@@ -23,143 +21,72 @@
 
 ## 👨‍💻 About Me
 
-I'm a university student studying **Artificial Intelligence in Business**.
+I'm a **Level 1 Artificial Intelligence in Business student** interested in technology, programming, and Artificial Intelligence.
 
-My academic path combines **Artificial Intelligence, Computer Science, Programming, Data, Information Systems, Cybersecurity, Networking, and Business Technology**.
+My academic journey includes areas such as:
 
-My studies and learning roadmap cover both technical and business-oriented areas of technology.
+🤖 **Artificial Intelligence**  
+🧠 **Machine Learning & Deep Learning**  
+💻 **Programming & Computer Science**  
+🏗️ **Software Engineering**  
+🔐 **Cybersecurity & Cryptography**  
+🌐 **Networking**  
+🗄️ **Databases & Information Systems**  
+📊 **Data & Analytics**  
+🏢 **AI & Business Technology**
 
----
-
-## 🎓 What I Study
-
-### 💻 Computer Science & Programming
-
-- 🐍 Python
-- 🧩 Programming Fundamentals
-- 🧱 Object-Oriented Programming (OOP)
-- 📚 Data Structures
-- ⚡ Algorithms
-- 🏗️ Software Engineering
-- 🖥️ Operating Systems
-- 🧠 Computer Architecture
-- 🧩 Problem Solving
-
-### 🌐 Web & Software Technology
-
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🔌 APIs
-- 🌍 HTTP / HTTPS
-- 🖥️ Backend Development
-- 🔗 Web Technologies
-- 🐙 Git & GitHub
-- 🐧 Linux Fundamentals
-
-### 🗄️ Databases & Information Systems
-
-- 🗄️ SQL
-- 💾 MySQL
-- 🐘 PostgreSQL
-- 🧱 Database Design
-- 🔗 Database Normalization
-- 💻 Database Systems
-- 🏢 Information Systems
-- 🏢 Management Information Systems
-
-### 📊 Mathematics, Data & Data Science
-
-- ➗ Mathematics
-- 🎲 Probability
-- 📈 Statistics
-- 🔢 Linear Algebra
-- 📐 Calculus Fundamentals
-- 🔬 Data Analysis
-- 📊 Data Visualization
-- 🧹 Data Cleaning
-- 🔍 Exploratory Data Analysis (EDA)
-- 🧩 Feature Engineering
-- ⛏️ Data Mining
-- 📦 Big Data Fundamentals
-- 📈 Predictive Analytics
-
-### 🤖 Artificial Intelligence
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 🧬 Neural Networks
-- 🔄 Forward Propagation
-- 🔙 Backpropagation
-- ⚡ Activation Functions
-- 📉 Loss Functions
-- 🚀 Optimizers
-- 👁️ CNN
-- 🔄 RNN
-- 🤯 Transformers
-
-### 🤖 Machine Learning
-
-- 📈 Linear Regression
-- 📊 Logistic Regression
-- 🌳 Decision Trees
-- 🌲 Random Forest
-- 🎯 SVM
-- 🔎 KNN
-- 🧩 Clustering
-- 📉 PCA
-- 🧪 Model Evaluation
-- 🔁 Cross-Validation
-- 🎯 Feature Selection
-- ⚙️ Hyperparameter Tuning
-
-### 🔐 Cybersecurity & Networking
-
-- 🌐 Computer Networks
-- 🔌 TCP/IP
-- 🌍 DNS
-- 🔒 HTTP / HTTPS
-- 🐧 Linux Networking
-- 🔐 Cybersecurity Fundamentals
-- 🔑 Cryptography
-- 🛡️ Authentication
-- 🌐 Web Security
-- 🗄️ Database Security
-- 🔒 Information Security
-
-### 🏢 Business & Enterprise Technology
-
-- 📊 Business Intelligence
-- 🏢 Enterprise Resource Planning (ERP)
-- 📈 Decision Support Systems
-- 🤖 AI Business Applications
-- 📊 Predictive Analytics
-- 🔄 Business Process Modeling
-- ⚙️ AI Automation
-- 🏢 AI Solutions for Business
+I’m building my foundations step by step and developing my skills through practice and projects.
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🛠️ Technology
 
-```text
-🥇 Level 1 — Programming Foundations
-            ↓
-🥈 Level 2 — Computer Science
-            ↓
-🥉 Level 3 — Databases & Web
-            ↓
-🔵 Level 4 — Mathematics & Data
-            ↓
-🔥 Level 5 — Data Science
-            ↓
-🤖 Level 6 — Machine Learning
-            ↓
-🧠 Level 7 — Neural Networks & Deep Learning
-            ↓
-🔐 Level 8 — Cybersecurity & Networking
-            ↓
-🏢 Level 9 — AI + Business
-            ↓
-🚀 Level 10 — Advanced Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+---
+
+## 🚀 My Direction
+
+**Programming → Computer Science → Data → Machine Learning → Deep Learning → AI**
+
+My goal is to grow into an **AI Engineer** and build practical technology solutions.
+
+---
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</a>
+
+<br><br>
+
+### 💻 Code Cycle
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works somehow"/>
+
+<br>
+
+🐛 **Debug → 💡 Learn → 🔧 Build → 🚀 Improve**
+
+<br><br>
+
+**Thanks for visiting my profile! 👋**
+
+</div>
