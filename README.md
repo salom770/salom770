@@ -1,4 +1,3 @@
-
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
@@ -12,7 +11,7 @@
 🎓 **Artificial Intelligence in Business**  
 🏫 **Al-Awael Modern University**
 
-### 🥇 Level 1 — Programming Foundations
+### 🥇 Level 1 — University
 
 <br>
 
@@ -26,83 +25,141 @@
 
 I'm a university student studying **Artificial Intelligence in Business**.
 
-My studies combine **Artificial Intelligence, Computer Science, Data, Information Systems, Cybersecurity, and Business Technology**.
+My academic path combines **Artificial Intelligence, Computer Science, Programming, Data, Information Systems, Cybersecurity, Networking, and Business Technology**.
 
-I'm building my programming foundation step by step through practice and projects.
+My studies and learning roadmap cover both technical and business-oriented areas of technology.
 
 ---
 
 ## 🎓 What I Study
 
-My university studies cover:
+### 💻 Computer Science & Programming
 
-🤖 **Artificial Intelligence**
+- 🐍 Python
+- 🧩 Programming Fundamentals
+- 🧱 Object-Oriented Programming (OOP)
+- 📚 Data Structures
+- ⚡ Algorithms
+- 🏗️ Software Engineering
+- 🖥️ Operating Systems
+- 🧠 Computer Architecture
+- 🧩 Problem Solving
 
-🧠 **Machine Learning**
+### 🌐 Web & Software Technology
 
-🔥 **Deep Learning**
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔌 APIs
+- 🌍 HTTP / HTTPS
+- 🖥️ Backend Development
+- 🔗 Web Technologies
+- 🐙 Git & GitHub
+- 🐧 Linux Fundamentals
 
-📊 **Data Analysis & Statistics**
+### 🗄️ Databases & Information Systems
 
-💻 **Programming & Computer Science**
+- 🗄️ SQL
+- 💾 MySQL
+- 🐘 PostgreSQL
+- 🧱 Database Design
+- 🔗 Database Normalization
+- 💻 Database Systems
+- 🏢 Information Systems
+- 🏢 Management Information Systems
 
-🧩 **Data Structures & Algorithms**
+### 📊 Mathematics, Data & Data Science
 
-🗄️ **Databases & Information Systems**
+- ➗ Mathematics
+- 🎲 Probability
+- 📈 Statistics
+- 🔢 Linear Algebra
+- 📐 Calculus Fundamentals
+- 🔬 Data Analysis
+- 📊 Data Visualization
+- 🧹 Data Cleaning
+- 🔍 Exploratory Data Analysis (EDA)
+- 🧩 Feature Engineering
+- ⛏️ Data Mining
+- 📦 Big Data Fundamentals
+- 📈 Predictive Analytics
 
-🌐 **Computer Networks**
+### 🤖 Artificial Intelligence
 
-🔐 **Cybersecurity**
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 🧬 Neural Networks
+- 🔄 Forward Propagation
+- 🔙 Backpropagation
+- ⚡ Activation Functions
+- 📉 Loss Functions
+- 🚀 Optimizers
+- 👁️ CNN
+- 🔄 RNN
+- 🤯 Transformers
 
-🔑 **Cryptography**
+### 🤖 Machine Learning
 
-🛡️ **Information Security**
+- 📈 Linear Regression
+- 📊 Logistic Regression
+- 🌳 Decision Trees
+- 🌲 Random Forest
+- 🎯 SVM
+- 🔎 KNN
+- 🧩 Clustering
+- 📉 PCA
+- 🧪 Model Evaluation
+- 🔁 Cross-Validation
+- 🎯 Feature Selection
+- ⚙️ Hyperparameter Tuning
 
-📈 **Business Intelligence**
+### 🔐 Cybersecurity & Networking
 
-📊 **Decision Support Systems**
+- 🌐 Computer Networks
+- 🔌 TCP/IP
+- 🌍 DNS
+- 🔒 HTTP / HTTPS
+- 🐧 Linux Networking
+- 🔐 Cybersecurity Fundamentals
+- 🔑 Cryptography
+- 🛡️ Authentication
+- 🌐 Web Security
+- 🗄️ Database Security
+- 🔒 Information Security
 
-⚙️ **Enterprise Resource Planning (ERP)**
+### 🏢 Business & Enterprise Technology
 
-🏢 **AI Business Applications**
+- 📊 Business Intelligence
+- 🏢 Enterprise Resource Planning (ERP)
+- 📈 Decision Support Systems
+- 🤖 AI Business Applications
+- 📊 Predictive Analytics
+- 🔄 Business Process Modeling
+- ⚙️ AI Automation
+- 🏢 AI Solutions for Business
 
 ---
 
-## 🥇 Level 1 — Programming Foundations
-
-🐍 **Python**
-
-🧩 **Programming Fundamentals**
-
-📚 **Problem Solving**
-
-🔧 **Building Practical Projects**
-
-🐙 **Git & GitHub**
-
-🐧 **Linux Fundamentals**
-
----
-
-## 🚀 My Learning Path
+## 🗺️ Learning Roadmap
 
 ```text
 🥇 Level 1 — Programming Foundations
-             ↓
+            ↓
 🥈 Level 2 — Computer Science
-             ↓
+            ↓
 🥉 Level 3 — Databases & Web
-             ↓
+            ↓
 🔵 Level 4 — Mathematics & Data
-             ↓
+            ↓
 🔥 Level 5 — Data Science
-             ↓
+            ↓
 🤖 Level 6 — Machine Learning
-             ↓
+            ↓
 🧠 Level 7 — Neural Networks & Deep Learning
-             ↓
+            ↓
 🔐 Level 8 — Cybersecurity & Networking
-             ↓
+            ↓
 🏢 Level 9 — AI + Business
-             ↓
+            ↓
 🚀 Level 10 — Advanced Projects
