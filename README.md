@@ -2,46 +2,74 @@
 
 👋 Hi, I'm Salem Salah
 
-🤖 Artificial Intelligence Student | 🐍 Python Developer in Progress
+🤖 Artificial Intelligence Student | 🐍 Python Learner
 
 🎓 Artificial Intelligence in Business
 🏫 Al-Awael Modern University
+
+<br>"Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>---
 
 🧑‍💻 About Me
 
-I'm an Artificial Intelligence in Business student interested in programming, data, machine learning, and building practical technology solutions.
+I'm a university student studying Artificial Intelligence in Business.
 
-My university studies combine Artificial Intelligence, Information Systems, Data, Business, Databases, Security, and Decision Support Systems.
+Currently, I'm focusing on Python and programming fundamentals and building small practical projects as I learn.
 
-Alongside university, I'm building my programming skills step by step, starting with Python and problem solving, then moving toward Machine Learning and Deep Learning.
+My academic studies cover a wide range of areas across Artificial Intelligence, Computer Science, Information Systems, Cybersecurity, Data, and Business.
 
 ---
 
-🏫 What I Study
+🎓 What I Study
 
-My academic path gives me a combination of:
+🤖 Artificial Intelligence & Data
 
-🤖 Artificial Intelligence
+- 🤖 Artificial Intelligence
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Analysis
+- 📈 Statistics
+- 🔢 Quantitative Methods
+- 🧩 Data Mining
+- 📉 Predictive Analytics
+- 🏢 Business Intelligence
+- ⚙️ AI Business Applications
+- 📈 Decision Support Systems
 
-💻 Programming & Software Engineering
+💻 Programming & Computer Science
+
+- 🐍 Python
+- 💻 Programming Fundamentals
+- 🧩 Data Structures
+- ⚡ Algorithms
+- 🏗️ Software Engineering
+- 🖥️ Operating Systems
+- 🖥️ Computer Architecture
+- 🌐 Web Technologies
 
 🗄️ Databases & Information Systems
 
-📊 Data & Statistics
+- 🗄️ Database Systems
+- 💾 SQL
+- 🧱 Database Design
+- 🔗 Information Systems
+- 🏢 Management Information Systems
+- ⚙️ Enterprise Resource Planning (ERP)
 
-🔐 Information Security & Networks
+🌐 Networks & Cybersecurity
 
-📈 Decision Support Systems
-
-🏢 Business Information Systems
-
-⚙️ ERP & Business Applications
-
-🧠 AI in Business
-
-My goal is to use this combination to build practical AI-based business solutions.
+- 🌐 Computer Networks
+- 🔌 TCP/IP
+- 🌍 DNS
+- 🌐 HTTP / HTTPS
+- 🐧 Linux Networking
+- 🔐 Cybersecurity
+- 🔑 Cryptography
+- 🛡️ Information Security
+- 🔑 Authentication
+- 🌐 Web Security
+- 🗄️ Database Security
 
 ---
 
@@ -50,51 +78,24 @@ My goal is to use this combination to build practical AI-based business solution
 "Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 "Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 Currently focusing on:
 
 🐍 Python
 
-🧩 Problem Solving
+🧩 Programming Fundamentals
 
-📚 Data Structures & Algorithms
+🧠 Problem Solving
 
 🐙 Git & GitHub
 
-🐧 Linux Fundamentals
-
----
-
-🤖 Where I'm Heading
-
-My learning path is:
-
-🐍 Python
-   ↓
-💻 Computer Science Foundations
-   ↓
-🗄️ SQL & Databases
-   ↓
-📊 Data Analysis
-   ↓
-🤖 Machine Learning
-   ↓
-🧠 Deep Learning
-   ↓
-🚀 AI Engineering
-   ↓
-🏢 AI + Business
-
-I'm especially interested in Machine Learning and Deep Learning as I progress through my studies.
+I'm learning through practice and building small projects.
 
 ---
 
 📂 Projects
 
-I learn by building.
-
-Some of my Python projects include:
+Some of my Python projects:
 
 💰 Expense Management System
 
@@ -106,38 +107,41 @@ Some of my Python projects include:
 
 🎓 Student Grades Management System
 
-📊 Data Management Projects
-
-These projects are part of my journey toward building larger and more advanced systems.
+📊 Simple Data Management Projects
 
 ---
 
-🛠️ Technology
+🚀 Learning Path
 
-Currently Using
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-Next on My Roadmap
-
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+🐍 Python
+   ↓
+🧩 Data Structures & Algorithms
+   ↓
+🐙 Git + GitHub
+   ↓
+🗄️ SQL + Databases
+   ↓
+📊 Data Analysis + Statistics
+   ↓
+🤖 Machine Learning
+   ↓
+🧠 Deep Learning
+   ↓
+🔐 Cybersecurity + Networking
+   ↓
+🏢 AI + Business
 
 ---
 
 🎯 My Goal
 
-To grow from a programming student into an AI Engineer capable of building real systems using:
+My goal is to build strong foundations in programming and computer science, then gradually move deeper into:
 
-Python + Data + Machine Learning + Deep Learning + Software + Business
+Machine Learning → Deep Learning → Artificial Intelligence
 
-I believe in learning the fundamentals first, building projects, and improving through practice.
+and eventually build practical AI solutions that combine:
+
+🤖 AI + 📊 Data + 💻 Software + 🏢 Business
 
 ---
 
@@ -152,5 +156,9 @@ I believe in learning the fundamentals first, building projects, and improving t
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working"/>     
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works somehow"/><br>🐛 Debug → 💡 Learn → 🔧 Build → 🚀 Improve
+
+<br><br>
+
+Thanks for visiting my profile! 👋
 
 </div>
