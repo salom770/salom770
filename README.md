@@ -1,4 +1,4 @@
- <div align="center" width="50">
+<div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
@@ -13,6 +13,8 @@
 
 ### 🥇 Level 1
 
+<small>طالب مستوى أول في تخصص الذكاء الاصطناعي في الأعمال</small>
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -24,6 +26,10 @@
 ## 👨‍💻 About Me
 
 I'm a **Level 1 Artificial Intelligence in Business student** interested in programming, technology, and Artificial Intelligence.
+
+<small>
+أنا طالب مستوى أول في الذكاء الاصطناعي في الأعمال، مهتم بالبرمجة والتكنولوجيا والذكاء الاصطناعي.
+</small>
 
 My academic journey includes:
 
@@ -37,7 +43,9 @@ My academic journey includes:
 📊 **Data & Analytics**  
 🏢 **AI & Business Technology**
 
-I'm building my foundations step by step through **practice, problem solving, and projects**.
+<small>
+تشمل رحلتي الدراسية الذكاء الاصطناعي وتعلم الآلة والتعلم العميق والبرمجة وعلوم الحاسوب وهندسة البرمجيات والأمن السيبراني والتشفير والشبكات وقواعد البيانات ونظم المعلومات والبيانات وتقنيات الأعمال.
+</small>
 
 ---
 
@@ -55,11 +63,50 @@ I'm building my foundations step by step through **practice, problem solving, an
 
 **Programming → Computer Science → Data → Machine Learning → Deep Learning → AI**
 
-My long-term goal is to become an **AI Engineer** and build practical solutions that combine:
+<small>
+البرمجة ← علوم الحاسوب ← البيانات ← تعلم الآلة ← التعلم العميق ← الذكاء الاصطناعي
+</small>
 
-**🤖 AI + 📊 Data + 💻 Software + 🏢 Business**
+My long-term goal is to become an **AI Engineer** and build practical technology solutions.
+
+<small>
+هدفي على المدى الطويل هو أن أصبح مهندس ذكاء اصطناعي وأبني حلولًا تقنية عملية.
+</small>
 
 ---
+
+## 🎯 Goals
+
+🤖 Build strong foundations in Artificial Intelligence  
+💻 Become a strong programmer  
+🧠 Go deeper into Machine Learning & Deep Learning  
+🚀 Build useful real-world AI solutions
+
+<small>
+بناء أساس قوي في الذكاء الاصطناعي، وتطوير مهارات البرمجة، والتعمق في تعلم الآلة والتعلم العميق، وبناء حلول ذكاء اصطناعي مفيدة وواقعية.
+</small>
+
+---
+
+## ⭐ Featured Projects
+
+My projects are available in my repositories.
+
+<small>
+مشاريعي موجودة في المستودعات الخاصة بحسابي، وأعرض هنا أفضل المشاريع مع تطور مستواي.
+</small>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/🚀%20View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -72,6 +119,46 @@ My long-term goal is to become an **AI Engineer** and build practical solutions 
 </a>
 
 <br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🎵 What I'm Listening To
+
+<div align="center">
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** [salimsaalm2004@gmail.com](mailto:salimsaalm2004@gmail.com)
+- 💬 **Telegram:** `YOUR_TELEGRAM_USERNAME`
+- 🐙 **GitHub:** [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+<small>
+للتواصل معي عبر البريد الإلكتروني أو Telegram أو GitHub.
+</small>
+
+---
+
+## 🧠 Fun Fact
+
+> 💡 **Every bug I fix teaches me something I didn't know before.**
+
+<small>
+كل خطأ أصلحه يعلمني شيئًا لم أكن أعرفه من قبل.
+</small>
+
+---
+
+<div align="center">
 
 ### 💻 Code Cycle
 
@@ -92,5 +179,7 @@ My long-term goal is to become an **AI Engineer** and build practical solutions 
 <br><br>
 
 **Thanks for visiting my profile! 👋**
+
+<small>شكرًا لزيارتك ملفي الشخصي 👋</small>
 
 </div>
