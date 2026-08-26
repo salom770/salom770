@@ -1,6 +1,4 @@
-
-
-<div align="center" width="50">
+ <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
@@ -15,15 +13,19 @@
 
 ### 🥇 Level 1
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+
 </div>
 
 <hr>
 
 ## 👨‍💻 About Me
 
-I'm a **Level 1 Artificial Intelligence in Business student** interested in technology, programming, and Artificial Intelligence.
+I'm a **Level 1 Artificial Intelligence in Business student** interested in programming, technology, and Artificial Intelligence.
 
-My academic journey includes areas such as:
+My academic journey includes:
 
 🤖 **Artificial Intelligence**  
 🧠 **Machine Learning & Deep Learning**  
@@ -35,7 +37,7 @@ My academic journey includes areas such as:
 📊 **Data & Analytics**  
 🏢 **AI & Business Technology**
 
-I’m building my foundations step by step and developing my skills through practice and projects.
+I'm building my foundations step by step through **practice, problem solving, and projects**.
 
 ---
 
@@ -53,7 +55,9 @@ I’m building my foundations step by step and developing my skills through prac
 
 **Programming → Computer Science → Data → Machine Learning → Deep Learning → AI**
 
-My goal is to grow into an **AI Engineer** and build practical technology solutions.
+My long-term goal is to become an **AI Engineer** and build practical solutions that combine:
+
+**🤖 AI + 📊 Data + 💻 Software + 🏢 Business**
 
 ---
 
