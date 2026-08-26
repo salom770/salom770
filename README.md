@@ -1,53 +1,74 @@
-<div align="center"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="40%"/><br>👋 Hi, I'm Salem Salah
+<div align="center" width="50"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br><img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working" width="40%"/><br><br>
 
-🤖 AI Student | 🐍 Python Learner
+👋 Hi, I'm Salem Salah
 
-🎓 Artificial Intelligence in Business — Al-Awael Modern University
+🤖 Artificial Intelligence Student | 🐍 Python Developer in Progress
 
-I'm currently building my programming foundations with Python and working toward Machine Learning and Deep Learning.
+🎓 Artificial Intelligence in Business
+🏫 Al-Awael Modern University
 
 </div>---
 
 🧑‍💻 About Me
 
-I'm a university student interested in:
+I'm an Artificial Intelligence in Business student interested in programming, data, machine learning, and building practical technology solutions.
 
-- 🐍 Python & Programming
-- 🤖 Artificial Intelligence
-- 📊 Data & Machine Learning
-- 🧠 Deep Learning
-- 🏢 AI Applications in Business
+My university studies combine Artificial Intelligence, Information Systems, Data, Business, Databases, Security, and Decision Support Systems.
 
-I learn by building small projects and gradually improving them as my skills grow.
-
-My current focus is understanding programming fundamentals and solving problems without simply copying code.
+Alongside university, I'm building my programming skills step by step, starting with Python and problem solving, then moving toward Machine Learning and Deep Learning.
 
 ---
 
-🛠️ Currently Learning
+🏫 What I Study
+
+My academic path gives me a combination of:
+
+🤖 Artificial Intelligence
+
+💻 Programming & Software Engineering
+
+🗄️ Databases & Information Systems
+
+📊 Data & Statistics
+
+🔐 Information Security & Networks
+
+📈 Decision Support Systems
+
+🏢 Business Information Systems
+
+⚙️ ERP & Business Applications
+
+🧠 AI in Business
+
+My goal is to use this combination to build practical AI-based business solutions.
+
+---
+
+🐍 What I'm Learning Now
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 "Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 "Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+Currently focusing on:
+
 🐍 Python
 
-Currently working with:
+🧩 Problem Solving
 
-"Variables" · "Conditions" · "Loops" · "Functions"
+📚 Data Structures & Algorithms
 
-"Lists" · "Dictionaries" · "Sets"
+🐙 Git & GitHub
 
-"Problem Solving" · "Input Validation"
-
-And gradually moving toward:
-
-"OOP" · "Files" · "Exceptions"
+🐧 Linux Fundamentals
 
 ---
 
-🚀 My Roadmap
+🤖 Where I'm Heading
+
+My learning path is:
 
 🐍 Python
    ↓
@@ -62,54 +83,74 @@ And gradually moving toward:
 🧠 Deep Learning
    ↓
 🚀 AI Engineering
+   ↓
+🏢 AI + Business
 
-My long-term goal is to build practical AI systems and combine AI, data, software, and business.
+I'm especially interested in Machine Learning and Deep Learning as I progress through my studies.
 
 ---
 
 📂 Projects
 
-Some of the projects I've worked on while learning Python:
+I learn by building.
 
-- 💰 Expense Management System
-- 📚 Bookstore / Library Management System
-- 🏪 Store Inventory Management System
-- 📝 Task Management Program
-- 🎓 Student Grades Management
-- 📊 Simple Data Management Programs
+Some of my Python projects include:
 
-These projects are helping me improve my:
+💰 Expense Management System
 
-Python · Problem Solving · Functions · Lists · Dictionaries · Loops · Conditions
+📚 Bookstore / Library Management System
 
-More advanced projects will be added as I progress through my learning roadmap.
+🏪 Store Inventory Management System
 
----
+📝 Task Management Program
 
-🎓 Education
+🎓 Student Grades Management System
 
-Al-Awael Modern University
+📊 Data Management Projects
 
-🎓 Major: Artificial Intelligence in Business
-
-My university studies combine programming, information systems, databases, data, artificial intelligence, security, and business applications.
-
-I'm complementing my university education with additional self-study in programming, Machine Learning, and Deep Learning.
+These projects are part of my journey toward building larger and more advanced systems.
 
 ---
 
-🎯 Current Goal
+🛠️ Technology
 
-«Learn the fundamentals → Build projects → Understand mistakes → Improve → Keep going.»
+Currently Using
 
-I'm currently focused on becoming stronger at programming before moving deeper into Machine Learning and Deep Learning.
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+Next on My Roadmap
+
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
 
-<div align="center">📊 GitHub
+🎯 My Goal
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/><br><br>
+To grow from a programming student into an AI Engineer capable of building real systems using:
 
-🐍 Keep Learning • Keep Building • Keep Improving
+Python + Data + Machine Learning + Deep Learning + Software + Business
+
+I believe in learning the fundamentals first, building projects, and improving through practice.
+
+---
+
+<div align="center">📊 GitHub Stats
+
+<a href="https://github.com/YOUR_USERNAME"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/></a><br><br>
+
+💻 Code Cycle
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Working"/>     
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works somehow"/><br>🐛 Debug → 💡 Learn → 🔧 Build → 🚀 Improve
 
 </div>
