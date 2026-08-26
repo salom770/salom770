@@ -1,3 +1,4 @@
+
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
@@ -6,10 +7,12 @@
 
 # 👋 Hi, I'm Salem Salah
 
-### 🤖 Artificial Intelligence Student | 🐍 Python Learner
+### 🤖 Artificial Intelligence Student
 
 🎓 **Artificial Intelligence in Business**  
 🏫 **Al-Awael Modern University**
+
+### 🥇 Level 1 — Programming Foundations
 
 <br>
 
@@ -23,11 +26,9 @@
 
 I'm a university student studying **Artificial Intelligence in Business**.
 
-Currently, I'm focusing on **Python, programming fundamentals, and problem solving**.
+My studies combine **Artificial Intelligence, Computer Science, Data, Information Systems, Cybersecurity, and Business Technology**.
 
-I learn by building projects, practicing what I learn, and improving my code step by step.
-
-I'm interested in **Artificial Intelligence, Data, Software, Security, and Business Technology**.
+I'm building my programming foundation step by step through practice and projects.
 
 ---
 
@@ -67,37 +68,41 @@ My university studies cover:
 
 ---
 
-## 🐍 Currently Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+## 🥇 Level 1 — Programming Foundations
 
 🐍 **Python**
 
 🧩 **Programming Fundamentals**
 
-🧠 **Problem Solving**
+📚 **Problem Solving**
+
+🔧 **Building Practical Projects**
 
 🐙 **Git & GitHub**
+
+🐧 **Linux Fundamentals**
 
 ---
 
 ## 🚀 My Learning Path
 
 ```text
-🐍 Python
-   ↓
-🧩 Data Structures & Algorithms
-   ↓
-🗄️ SQL & Databases
-   ↓
-📊 Data & Statistics
-   ↓
-🤖 Machine Learning
-   ↓
-🧠 Deep Learning
-   ↓
-🔐 Cybersecurity & Networking
-   ↓
-🏢 AI + Business
+🥇 Level 1 — Programming Foundations
+             ↓
+🥈 Level 2 — Computer Science
+             ↓
+🥉 Level 3 — Databases & Web
+             ↓
+🔵 Level 4 — Mathematics & Data
+             ↓
+🔥 Level 5 — Data Science
+             ↓
+🤖 Level 6 — Machine Learning
+             ↓
+🧠 Level 7 — Neural Networks & Deep Learning
+             ↓
+🔐 Level 8 — Cybersecurity & Networking
+             ↓
+🏢 Level 9 — AI + Business
+             ↓
+🚀 Level 10 — Advanced Projects
