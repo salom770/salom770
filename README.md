@@ -1,101 +1,224 @@
-<div align="center" width="50">
+<div align="center">👋 Hi, I'm Salem Salah
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+🤖 AI Student | Python Developer | Future AI Engineer
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+🎓 Artificial Intelligence in Business — Al-Awael Modern University
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+💻 Currently building my foundations in Python, Computer Science, Data & Artificial Intelligence
 
-</details>
+🧠 My long-term goal is to become a strong AI Engineer specializing in Machine Learning & Deep Learning
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
-</div>
+</div>---
 
-<hr></hr>
+🚀 About Me
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+I'm a university student studying Artificial Intelligence in Business with a strong interest in programming, machine learning, deep learning, and building real-world AI solutions.
 
-```dart
-// tools_I_use organized
+I'm following a structured learning path alongside my university studies, focusing on understanding the fundamentals rather than simply copying code.
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
+My goal is to progress from:
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+Programming → Computer Science → Data → Machine Learning → Deep Learning → AI Engineering
 
-<div align="center" >
-<a  href="https://github.com/SP-XD">
+I also want to combine AI with business and information systems to build practical solutions that can be used by real organizations.
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+---
 
-</a>
+🎯 My Learning Path
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+Python
+   ↓
+Data Structures & Algorithms
+   ↓
+Git + GitHub + Linux
+   ↓
+SQL + Databases + APIs
+   ↓
+Mathematics + Statistics
+   ↓
+NumPy + Pandas + Data Analysis
+   ↓
+Machine Learning
+   ↓
+Neural Networks
+   ↓
+Deep Learning
+   ↓
+PyTorch
+   ↓
+AI Engineering
+   ↓
+AI + Business Applications
 
-</details>
-  
-<hr></hr>
+---
 
-**Code Cycle**<br>
+🐍 Current Focus
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+Python
 
+Currently building a strong foundation in:
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+- Variables
+- Conditions
+- Loops
+- Functions
+- Lists
+- Dictionaries
+- Sets
+- Problem solving
+- Building small programs
+- Object-Oriented Programming
+- File handling
+- Error & Exception handling
+
+I'm also turning what I learn into practical projects instead of only studying theory.
+
+---
+
+🧠 AI Roadmap
+
+My main technical direction is:
+
+- 📊 Data Analysis
+- 📈 Statistics & Mathematics
+- 🤖 Machine Learning
+- 🧠 Neural Networks
+- 🔥 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing
+- ⚡ Transformers
+- 🐍 Python AI ecosystem
+- 🔬 PyTorch
+- 🚀 AI Engineering
+- 🏢 AI for Business
+
+---
+
+🛠️ Technologies
+
+Currently Learning
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Coming Next
+
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+"PyTorch" (https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+«These technologies are part of my roadmap; I don't consider a technology mastered just because I've started learning it.»
+
+---
+
+🧩 Projects
+
+I'm building projects progressively as I move through my learning path.
+
+🟢 Python Projects
+
+Some of the projects I've worked on include:
+
+- 💰 Expense Management System
+- 📚 Bookstore / Library Management System
+- 🏪 Store Inventory Management System
+- 📝 Task Management Programs
+- 🎓 Student Grades Management
+- 🧮 Skills & Data Management Programs
+
+These projects help me practice:
+
+"Functions" • "Dictionaries" • "Lists" • "Conditions" • "Loops" • "Input Validation" • "Data Management" • "Problem Solving"
+
+🔵 Future Projects
+
+As my skills grow, my projects will evolve into:
+
+SQL → Data Analysis → Machine Learning → Deep Learning → AI Applications
+
+My goal is not to collect small projects.
+
+My goal is to build projects that become progressively more realistic and technically advanced.
+
+---
+
+🎓 University
+
+Al-Awael Modern University
+
+Major: Artificial Intelligence in Business
+Department: Management Information Systems
+
+My university curriculum combines:
+
+- Information Systems
+- Programming
+- Databases
+- Statistics
+- Data
+- Artificial Intelligence
+- Business
+- Information Security
+- Networks
+- Decision Support Systems
+- ERP
+- AI Business Applications
+
+I'm complementing the academic curriculum with deeper self-study in Computer Science, Machine Learning and Deep Learning.
+
+---
+
+📚 What I'm Building Toward
+
+Student
+   ↓
+Python Developer
+   ↓
+Computer Science Foundations
+   ↓
+Data & ML Developer
+   ↓
+Machine Learning Engineer
+   ↓
+Deep Learning Engineer
+   ↓
+AI Engineer
+
+The target is to understand why things work, not just how to make them run.
+
+---
+
+💡 My Philosophy
+
+«Learn the fundamentals.
+Build projects.
+Make mistakes.
+Understand the mistake.
+Improve the project.
+Repeat.»
+
+I believe consistent practical work is more valuable than simply collecting tutorials and certificates.
+
+---
+
+📈 The Goal
+
+My long-term goal is to build real AI systems that solve practical problems.
+
+Especially systems that combine:
+
+Artificial Intelligence + Data + Software + Business
+
+🚀 One step at a time.
+
+---
+
+<div align="center">Thanks for visiting my profile! 👋
+
+Learning today. Building tomorrow.
 
 </div>
